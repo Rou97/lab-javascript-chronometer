@@ -44,5 +44,4 @@ class Chronometer {
         this.currentTime = 0;
     }
  }
- 
 
